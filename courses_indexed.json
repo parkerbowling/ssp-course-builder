@@ -65,7 +65,8 @@
       "number": "SEST-5300",
       "name": "Core: International Security",
       "tags": [
-        "IS"
+        "IS",
+        "CORE"
       ],
       "notes": "Core course for International Security Concentration"
     },
@@ -86,7 +87,8 @@
       "tags": [
         "ECON",
         "MILOPS",
-        "USNP"
+        "USNP",
+        "CORE"
       ],
       "notes": "Core course option for Military Operations concentration"
     },
@@ -95,7 +97,8 @@
       "name": "Modern Conv Mil Ops",
       "tags": [
         "MILOPS",
-        "USNP"
+        "USNP",
+        "CORE"
       ],
       "notes": "Formerly Advanced Mil Ops - Core course option for Military Operations concentration"
     },
@@ -125,7 +128,8 @@
       "tags": [
         "TECH",
         "MILOPS",
-        "USNP"
+        "USNP",
+        "CORE"
       ],
       "notes": "Core course option for Technology and Security Concentration"
     },
@@ -135,7 +139,8 @@
       "tags": [
         "TECH",
         "MILOPS",
-        "USNP"
+        "USNP",
+        "CORE"
       ],
       "notes": "Core Course option for Technology concentration"
     },
@@ -145,7 +150,8 @@
       "tags": [
         "TECH",
         "INTEL",
-        "USNP"
+        "USNP",
+        "CORE"
       ],
       "notes": "Core Course option for Technology concentration"
     },
@@ -2303,7 +2309,8 @@
         "tags": [
           "ECON",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -3469,7 +3476,8 @@
         "number": "SEST-5300",
         "name": "Core: International Security",
         "tags": [
-          "IS"
+          "IS",
+        "CORE"
         ]
       },
       {
@@ -4614,7 +4622,8 @@
         "tags": [
           "ECON",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -4622,7 +4631,8 @@
         "name": "Modern Conv Mil Ops",
         "tags": [
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -4649,7 +4659,8 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -4658,7 +4669,8 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -4667,7 +4679,8 @@
         "tags": [
           "TECH",
           "INTEL",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -5369,7 +5382,8 @@
         "tags": [
           "TECH",
           "INTEL",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -5678,7 +5692,8 @@
         "tags": [
           "ECON",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -5686,7 +5701,8 @@
         "name": "Modern Conv Mil Ops",
         "tags": [
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -5705,7 +5721,8 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -5714,7 +5731,8 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -6127,7 +6145,8 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -6136,7 +6155,8 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
@@ -6145,7 +6165,8 @@
         "tags": [
           "TECH",
           "INTEL",
-          "USNP"
+          "USNP",
+        "CORE"
         ]
       },
       {
