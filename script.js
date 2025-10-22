@@ -105,36 +105,50 @@ document.getElementById('searchBar').addEventListener('input', renderCourses);
 
 // Add course to a slot
 function addCourseToSlot(course, tag) {
+  // Prevent duplicates
+  if (isCourseSelected(course)) {
+    alert('This course is already in your schedule.');
+    return;
+  }
+
   const tagUpper = tag.toUpperCase();
   const tagsUpper = course.tags.map(t => t.toUpperCase());
 
   switch(tagUpper) {
     case 'AREA':
-      if (!schedule.AREA) schedule.AREA = course; else { alert('AREA slot full'); return; }
+      if (!schedule.AREA) schedule.AREA = course;
+      else { alert('AREA slot full'); return; }
       break;
     case 'TECH':
-      if (!schedule.TECH) schedule.TECH = course; else { alert('TECH slot full'); return; }
+      if (!schedule.TECH) schedule.TECH = course;
+      else { alert('TECH slot full'); return; }
       break;
     case 'ECON':
-      if (!schedule.ECON) schedule.ECON = course; else { alert('ECON slot full'); return; }
+      if (!schedule.ECON) schedule.ECON = course;
+      else { alert('ECON slot full'); return; }
       break;
     case 'CORE':
       if (!activeConcentration) { alert('Select a concentration first'); return; }
       if (!tagsUpper.includes(activeConcentration.toUpperCase())) { alert('Course does not match CORE concentration'); return; }
-      if (!schedule.CORE) schedule.CORE = course; else { alert('CORE slot full'); return; }
+      if (!schedule.CORE) schedule.CORE = course;
+      else { alert('CORE slot full'); return; }
       break;
     case activeConcentration?.toUpperCase():
-      if (schedule.CONC.length < maxConcentration) schedule.CONC.push(course); else { alert('Concentration courses full'); return; }
+      if (schedule.CONC.length < maxConcentration) schedule.CONC.push(course);
+      else { alert('Concentration courses full'); return; }
       break;
     case 'ELECT':
-      if (schedule.ELECT.length < maxElectives) schedule.ELECT.push(course); else { alert('Electives full'); return; }
+      if (schedule.ELECT.length < maxElectives) schedule.ELECT.push(course);
+      else { alert('Electives full'); return; }
       break;
     default:
       alert('Cannot assign course to this slot'); return;
   }
+
   updateScheduleSlots();
   renderCourses(); // refresh highlighting
 }
+
 
 // Update all schedule slot displays
 function updateScheduleSlots() {
