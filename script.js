@@ -10,7 +10,7 @@ const tags = ["AREA","Econ","Tech","Intel","IS","Mil Ops","TSV","USNP","CORE"];
 const concentrations = ["Tech","Intel","IS","Mil Ops","TSV","USNP"];
 
 // Fetch JSON and initialize
-fetch('data/courses_indexed.json')
+fetch('courses_indexed.json')
   .then(res => res.json())
   .then(data => {
     coursesData = data.courses;
