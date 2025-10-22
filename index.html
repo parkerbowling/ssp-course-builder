@@ -10,6 +10,8 @@
     .tag-btn.active { background-color: #0d6efd; color: white; }
     .course-card { cursor: pointer; margin-bottom: 10px; }
     .schedule-slot { min-height: 50px; border: 1px dashed #ccc; padding: 5px; margin-bottom: 10px; }
+    .course-tags button { margin-right: 5px; margin-top: 5px; }
+    .course-card.selected { border: 2px solid #0d6efd; }
   </style>
 </head>
 <body>
@@ -20,25 +22,19 @@
     <input type="text" id="searchBar" class="form-control mb-3" placeholder="Search by course number, name, or tags">
 
     <!-- Tag Filter Buttons -->
-    <div id="tagFilters" class="mb-3">
-      <!-- Buttons added dynamically -->
-    </div>
+    <div id="tagFilters" class="mb-3"></div>
 
     <!-- Concentration Selector -->
     <div id="concentrationButtons" class="mb-3">
-      <label>Concentration:</label>
-      <!-- Buttons added dynamically -->
+      <label><strong>Concentration:</strong></label>
     </div>
 
     <!-- Course List -->
-    <div id="courseList" class="mb-4 row">
-      <!-- Course cards inserted here -->
-    </div>
+    <div id="courseList" class="mb-4 row"></div>
 
     <!-- Schedule Planner -->
     <h3>Schedule</h3>
     <div id="schedulePlanner">
-      <div><strong>CORE CLASSES:</strong> SEST5000: Theory and Practice of Security <br>SEST5001:Strategy/Policy/Military Operations</div></div>
       <div><strong>AREA:</strong> <div class="schedule-slot" id="slot-AREA"></div></div>
       <div><strong>TECH:</strong> <div class="schedule-slot" id="slot-TECH"></div></div>
       <div><strong>ECON:</strong> <div class="schedule-slot" id="slot-ECON"></div></div>

@@ -2,23 +2,12 @@ let coursesData = null;
 let activeTags = new Set();
 let activeConcentration = null;
 
-// Maximum slots
 const maxConcentration = 3;
 const maxElectives = 3;
 
-// Current schedule state
-const schedule = {
-  AREA: null,
-  TECH: null,
-  ECON: null,
-  CORE: null,
-  CONC: [],
-  ELECT: []
-};
-
-// Tags and concentration options
-const tags = ["AREA", "Econ", "Tech", "Intel", "IS", "Mil Ops", "TSV", "USNP", "CORE"];
-const concentrations = ["Tech", "Intel", "IS", "Mil Ops", "TSV", "USNP"];
+const schedule = { AREA:null, TECH:null, ECON:null, CORE:null, CONC:[], ELECT:[] };
+const tags = ["AREA","Econ","Tech","Intel","IS","Mil Ops","TSV","USNP","CORE"];
+const concentrations = ["Tech","Intel","IS","Mil Ops","TSV","USNP"];
 
 // Fetch JSON and initialize
 fetch('data/courses_indexed.json')
@@ -30,7 +19,7 @@ fetch('data/courses_indexed.json')
     renderCourses();
   });
 
-// Initialize tag filter buttons
+// Initialize global filter buttons
 function initTagButtons() {
   const container = document.getElementById('tagFilters');
   tags.forEach(tag => {
@@ -56,7 +45,6 @@ function initConcentrationButtons() {
     btn.textContent = conc;
     btn.addEventListener('click', () => {
       activeConcentration = conc;
-      // Highlight active
       Array.from(container.children).forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       renderCourses();
@@ -65,7 +53,7 @@ function initConcentrationButtons() {
   });
 }
 
-// Render courses based on search + tag filters
+// Render courses list
 function renderCourses() {
   const container = document.getElementById('courseList');
   container.innerHTML = '';
@@ -73,10 +61,7 @@ function renderCourses() {
   const searchValue = document.getElementById('searchBar').value.toLowerCase();
 
   const filtered = coursesData.filter(course => {
-    // Tag filter
     if (activeTags.size > 0 && !course.tags.some(t => activeTags.has(t))) return false;
-
-    // Search filter (number, name, tags)
     if (searchValue) {
       const text = [course.number, course.name, ...course.tags].join(' ').toLowerCase();
       if (!text.includes(searchValue)) return false;
@@ -87,84 +72,86 @@ function renderCourses() {
   filtered.forEach(course => {
     const div = document.createElement('div');
     div.className = 'col-md-4 course-card card p-2 mb-2';
+    if (isCourseSelected(course)) div.classList.add('selected');
 
-    // Tags buttons + elective button
     const tagsHtml = course.tags.map(tag => `<button class="btn btn-outline-secondary btn-sm me-1 mb-1 tag-btn-course">${tag}</button>`).join('');
+
     div.innerHTML = `
       <strong>${course.number}</strong>: ${course.name}<br>
-      ${tagsHtml}
+      <div class="course-tags">${tagsHtml}</div>
       <button class="btn btn-outline-warning btn-sm ms-1 mb-1">Add to Electives</button>
     `;
 
-    // Tag button clicks
+    // Tag buttons
     div.querySelectorAll('.tag-btn-course').forEach((btn, idx) => {
       btn.addEventListener('click', () => addCourseToSlot(course, course.tags[idx]));
     });
 
-    // Electives button click
+    // Electives button
     div.querySelector('button.btn-outline-warning').addEventListener('click', () => addCourseToSlot(course, 'ELECT'));
 
     container.appendChild(div);
   });
 }
 
-// Search input listener
+// Check if course already in schedule
+function isCourseSelected(course) {
+  const slots = [schedule.AREA, schedule.TECH, schedule.ECON, schedule.CORE, ...schedule.CONC, ...schedule.ELECT];
+  return slots.some(c => c && c.number === course.number);
+}
+
+// Search listener
 document.getElementById('searchBar').addEventListener('input', renderCourses);
 
-// Add course to a specific slot
+// Add course to a slot
 function addCourseToSlot(course, tag) {
   const tagUpper = tag.toUpperCase();
   const tagsUpper = course.tags.map(t => t.toUpperCase());
 
   switch(tagUpper) {
     case 'AREA':
-      if (!schedule.AREA) { schedule.AREA = course; updateSlot('AREA', course); }
-      else alert('AREA slot is full'); 
+      if (!schedule.AREA) schedule.AREA = course; else { alert('AREA slot full'); return; }
       break;
     case 'TECH':
-      if (!schedule.TECH) { schedule.TECH = course; updateSlot('TECH', course); }
-      else alert('TECH slot is full');
+      if (!schedule.TECH) schedule.TECH = course; else { alert('TECH slot full'); return; }
       break;
     case 'ECON':
-      if (!schedule.ECON) { schedule.ECON = course; updateSlot('ECON', course); }
-      else alert('ECON slot is full');
+      if (!schedule.ECON) schedule.ECON = course; else { alert('ECON slot full'); return; }
       break;
     case 'CORE':
-      if (!activeConcentration) { alert('Select a concentration first'); break; }
-      if (!tagsUpper.includes(activeConcentration.toUpperCase())) { alert('This course does not match the concentration for CORE'); break; }
-      if (!schedule.CORE) { schedule.CORE = course; updateSlot('CORE', course); }
-      else alert('CORE slot is full'); 
+      if (!activeConcentration) { alert('Select a concentration first'); return; }
+      if (!tagsUpper.includes(activeConcentration.toUpperCase())) { alert('Course does not match CORE concentration'); return; }
+      if (!schedule.CORE) schedule.CORE = course; else { alert('CORE slot full'); return; }
       break;
     case activeConcentration?.toUpperCase():
-      if (schedule.CONC.length < maxConcentration) { schedule.CONC.push(course); updateSlot('CONC', course); }
-      else alert('Concentration courses full'); 
+      if (schedule.CONC.length < maxConcentration) schedule.CONC.push(course); else { alert('Concentration courses full'); return; }
       break;
     case 'ELECT':
-      if (schedule.ELECT.length < maxElectives) { schedule.ELECT.push(course); updateSlot('ELECT', course); }
-      else alert('Electives full'); 
+      if (schedule.ELECT.length < maxElectives) schedule.ELECT.push(course); else { alert('Electives full'); return; }
       break;
     default:
-      alert('Cannot assign course to this slot');
+      alert('Cannot assign course to this slot'); return;
   }
+  updateScheduleSlots();
+  renderCourses(); // refresh highlighting
 }
 
-// Update the schedule slot display
-function updateSlot(slot, course) {
-  const el = document.getElementById(`slot-${slot}`);
-  if (slot === 'CONC' || slot === 'ELECT') {
-    el.innerHTML = schedule[slot].map(c => `${c.number}: ${c.name}`).join('<br>');
-  } else {
-    el.innerHTML = `${course.number}: ${course.name}`;
-  }
+// Update all schedule slot displays
+function updateScheduleSlots() {
+  const el = id => document.getElementById(`slot-${id}`);
+  el('AREA').innerHTML = schedule.AREA ? `${schedule.AREA.number}: ${schedule.AREA.name}` : '';
+  el('TECH').innerHTML = schedule.TECH ? `${schedule.TECH.number}: ${schedule.TECH.name}` : '';
+  el('ECON').innerHTML = schedule.ECON ? `${schedule.ECON.number}: ${schedule.ECON.name}` : '';
+  el('CORE').innerHTML = schedule.CORE ? `${schedule.CORE.number}: ${schedule.CORE.name}` : '';
+  el('CONC').innerHTML = schedule.CONC.map(c => `${c.number}: ${c.name}`).join('<br>');
+  el('ELECT').innerHTML = schedule.ELECT.map(c => `${c.number}: ${c.name}`).join('<br>');
 }
 
 // CLEAR button
 document.getElementById('clearSchedule').addEventListener('click', () => {
-  schedule.AREA = null;
-  schedule.TECH = null;
-  schedule.ECON = null;
-  schedule.CORE = null;
+  schedule.AREA = schedule.TECH = schedule.ECON = schedule.CORE = null;
   schedule.CONC = [];
   schedule.ELECT = [];
-  ['AREA','TECH','ECON','CORE','CONC','ELECT'].forEach(slot => document.getElementById(`slot-${slot}`).innerHTML = '');
+  updateScheduleSlots();
+  renderCourses();
 });
