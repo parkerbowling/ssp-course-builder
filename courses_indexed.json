@@ -1,0 +1,6611 @@
+{
+  "courses": [
+    {
+      "number": "SEST-4444",
+      "name": "Combating Terrorist Financing",
+      "tags": [
+        "ECON",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-4445",
+      "name": "The Forensics of Mass Killing",
+      "tags": [
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-4447",
+      "name": "Jewish/Muslim Coexistence in MidEast&NAfrica",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-5000",
+      "name": "Theory and Practice of Security",
+      "tags": [
+        "CORE"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-5001",
+      "name": "Strategy/Policy/Military Operations",
+      "tags": [
+        "CORE"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-5100",
+      "name": "U.S. National Security Policy",
+      "tags": [
+        "USNP",
+        "CORE"
+      ],
+      "notes": "Core course for U.S. National Security Policy Concentration"
+    },
+    {
+      "number": "SEST-5210",
+      "name": "Theory and Practice of Intelligence",
+      "tags": [
+        "INTEL",
+        "USNP",
+        "CORE"
+      ],
+      "notes": "Core course for Intelligence Concentration"
+    },
+    {
+      "number": "SEST-5300",
+      "name": "Core: International Security",
+      "tags": [
+        "IS"
+      ],
+      "notes": "Core course for International Security Concentration"
+    },
+    {
+      "number": "SEST-5460",
+      "name": "Terrorism/Counterterrorism",
+      "tags": [
+        "IS",
+        "TSV",
+        "USNP",
+        "CORE"
+      ],
+      "notes": "Core course option for Terrorism and Substate Violence"
+    },
+    {
+      "number": "SEST-5514",
+      "name": "Methods of Military Analysis",
+      "tags": [
+        "ECON",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": "Core course option for Military Operations concentration"
+    },
+    {
+      "number": "SEST 5526",
+      "name": "Modern Conv Mil Ops",
+      "tags": [
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": "Formerly Advanced Mil Ops - Core course option for Military Operations concentration"
+    },
+    {
+      "number": "SEST-5650",
+      "name": "Nuclear Weapons: History, Strategy, Technology",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP",
+        "CORE"
+      ],
+      "notes": "Core Course option for Technology concentration"
+    },
+    {
+      "number": "SEST-5700",
+      "name": "Tools for Technology Policy",
+      "tags": [
+        "TECH",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-5732",
+      "name": "Core: Nuclear Deterrence: Past, Present, and Future",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": "Core course option for Technology and Security Concentration"
+    },
+    {
+      "number": "SEST-5733",
+      "name": "Cyber Operations",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": "Core Course option for Technology concentration"
+    },
+    {
+      "number": "SEST-5734",
+      "name": "Artificial Intelligence & National Security",
+      "tags": [
+        "TECH",
+        "INTEL",
+        "USNP"
+      ],
+      "notes": "Core Course option for Technology concentration"
+    },
+    {
+      "number": "SEST-6370",
+      "name": "Ethnic Conflict and Civil War",
+      "tags": [
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6400",
+      "name": "The Evolution of Asia Strategy",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6410",
+      "name": "Technology & National Security",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6502",
+      "name": "Research Methods for Security Studies",
+      "tags": [
+        "INTEL",
+        "IS",
+        "MILOPS",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6503",
+      "name": "Writing for Security Professionals",
+      "tags": [
+        "INTEL",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6505",
+      "name": "Comparative Civil-Military Relations",
+      "tags": [
+        "IS",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6506",
+      "name": "Game Theory",
+      "tags": [
+        "ECON"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6507",
+      "name": "Intelligence Oversight",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6508",
+      "name": "Writing for Intel/Analysis",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6509",
+      "name": "National Security Planning, Strategy, and Decision-Making for the 21st Century",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6510",
+      "name": "Transnational Institutions in Africa",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6511",
+      "name": "NSC: US Policy via Simulations",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6512",
+      "name": "Congress and US National Security Policy",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6513",
+      "name": "Russian Intel/Info Operations",
+      "tags": [
+        "AREA",
+        "INTEL",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6514",
+      "name": "AI & Disinformation",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6515",
+      "name": "Net Assessment/Strategic Think",
+      "tags": [
+        "TECH",
+        "INTEL",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6516",
+      "name": "Military Effectiveness",
+      "tags": [
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6517",
+      "name": "Ops Research",
+      "tags": [
+        "ECON"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6518",
+      "name": "Space Strategy, Policy, and Operations",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6519",
+      "name": "Domestic Intel & Homeland Sec",
+      "tags": [
+        "INTEL",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6520",
+      "name": "Counterinsurgency",
+      "tags": [
+        "MILOPS",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6522",
+      "name": "Comparative Pol: Middle East",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6523",
+      "name": "Armed Group Military Integration",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6524",
+      "name": "China's Grand Strategy",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6525",
+      "name": "South-East Asian Security",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6527",
+      "name": "Indian Foreign Policy",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6529",
+      "name": "Latin American Politics & Security",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6531",
+      "name": "Great Power Strategy: US/China",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6532",
+      "name": "Comparing Intelligence Services",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6533",
+      "name": "Civil Wars & the Middle East",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6534",
+      "name": "Globalization and Security",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6535",
+      "name": "Economics and Security: Microdimensions",
+      "tags": [
+        "ECON",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6536",
+      "name": "The UN, US and Peacekeeping",
+      "tags": [
+        "IS",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6538",
+      "name": "Military Analysis",
+      "tags": [
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6539",
+      "name": "Economics of Saudi Power",
+      "tags": [
+        "AREA",
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6540",
+      "name": "PRC Intel/Security/Influence",
+      "tags": [
+        "AREA",
+        "INTEL",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6541",
+      "name": "Diversity and Inclusion in CR/Development",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6542",
+      "name": "Security Challenges of Illicit Economies",
+      "tags": [
+        "ECON",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6543",
+      "name": "Crisis Decision-Making in Simulations",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6544",
+      "name": "Gender and Terrorism",
+      "tags": [
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6545",
+      "name": "(Dis)Info Wars: Geopolitics In the Digital Age",
+      "tags": [
+        "TECH",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6546",
+      "name": "Borders, Power, and Security",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6547",
+      "name": "Homegrown Radicalization and Terrorist Recruit",
+      "tags": [
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6548",
+      "name": "Weapons Proliferation and Security",
+      "tags": [
+        "TECH",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6549",
+      "name": "Security, Climate Change, and Migration",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6551",
+      "name": "Christianity, Nationalism & Violence",
+      "tags": [
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6552",
+      "name": "Disinformation/Info Ops&Strat",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6553",
+      "name": "International Negotiations & Crisis Response",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6554",
+      "name": "Military Innovation and Security",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6555",
+      "name": "Crises and Responses in Transatlantic Relations",
+      "tags": [
+        "AREA",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6556",
+      "name": "Global Health Security",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6557",
+      "name": "The Future of Arms Control",
+      "tags": [
+        "TECH",
+        "IS",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6558",
+      "name": "Political History of Afghanistan",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6559",
+      "name": "Missile Technology and Missile Defense",
+      "tags": [
+        "TECH",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6560",
+      "name": "Basics of Wargaming/Wargaming for Policy Analysis",
+      "tags": [
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6561",
+      "name": "Modeling Complexity: Int Sec",
+      "tags": [
+        "TECH",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6562",
+      "name": "Countering Info Disorder",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6563",
+      "name": "Central Asia and Eurasian Geopolitics",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6564",
+      "name": "US Nuclear Strategy",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6565",
+      "name": "Environmental Security",
+      "tags": [
+        "ECON",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6566",
+      "name": "Biotechnology and Security",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6567",
+      "name": "Space Tech & Security",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6568",
+      "name": "Human Behavior in War",
+      "tags": [
+        "IS",
+        "MILOPS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6569",
+      "name": "Theory of Cyberwar",
+      "tags": [
+        "TECH",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6570",
+      "name": "African Security Issues & Policy",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6571",
+      "name": "Security Issues in East Asia",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6572",
+      "name": "Europe, Security & Competition",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6573",
+      "name": "Security Issues of South Asia",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6574",
+      "name": "National Security Surveillance",
+      "tags": [
+        "INTEL",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6575",
+      "name": "Cyber Pol for Nat and Econ Security",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6576",
+      "name": "Chinese Open Source Analysis",
+      "tags": [
+        "TECH",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6577",
+      "name": "GIS for Security Studies",
+      "tags": [
+        "TECH",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6579",
+      "name": "Warfare in the Middle East",
+      "tags": [
+        "AREA",
+        "IS",
+        "MILOPS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6580",
+      "name": "Stability Challenges: South/SE Asia",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6581",
+      "name": "Challenges of Chem/Bio Weapons",
+      "tags": [
+        "TECH",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6582",
+      "name": "Defense & Security Policies of US Allies and Partners Indo-Pacific",
+      "tags": [
+        "AREA",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6583",
+      "name": "China and its Military",
+      "tags": [
+        "AREA",
+        "IS",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6584",
+      "name": "Global Cyber Threats",
+      "tags": [
+        "TECH",
+        "INTEL",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6585",
+      "name": "Security and Governance in North Africa",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6586",
+      "name": "Europe: Radicalism and Terrorism",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6587",
+      "name": "Technology Policy Across Borders",
+      "tags": [
+        "TECH",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6589",
+      "name": "Central Asia & South Caucasus",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6591",
+      "name": "Political Economy of Contemporary Conflict",
+      "tags": [
+        "ECON",
+        "IS",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6592",
+      "name": "International Arms Trade",
+      "tags": [
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6593",
+      "name": "Post 9/11Terror/Intel Analysis",
+      "tags": [
+        "INTEL",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6594",
+      "name": "Energy and Security",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6595",
+      "name": "Climate Change in the US: Econ and Nat Sec",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6596",
+      "name": "Budgeting for US Nat Defense",
+      "tags": [
+        "ECON",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6597",
+      "name": "LGBTQ Issues in National Security",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6598",
+      "name": "Military Campaign Analysis: Decision Making in War",
+      "tags": [
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6599",
+      "name": "Irregular War in Film",
+      "tags": [
+        "IS",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6600",
+      "name": "Hate Groups and Social Media",
+      "tags": [
+        "TECH",
+        "IS",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6601",
+      "name": "Social Media Impact on National Sec",
+      "tags": [
+        "TECH",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6603",
+      "name": "International Law and Security",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6604",
+      "name": "Media and National Security",
+      "tags": [
+        "TECH",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6605",
+      "name": "Terrorism: M East & N Africa",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6606",
+      "name": "National Security Law",
+      "tags": [
+        "MILOPS",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6607",
+      "name": "Counterintelligence Today",
+      "tags": [
+        "INTEL",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6608",
+      "name": "DPRK Nuclear/Missile Programs",
+      "tags": [
+        "AREA",
+        "TECH",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6609",
+      "name": "Strat Engagement & Ethical AI",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6610",
+      "name": "Civil-Military Relations",
+      "tags": [
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6611",
+      "name": "Covert Action/Counterintelligence",
+      "tags": [
+        "INTEL",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6612",
+      "name": "Chinese Economic Espionage & Strategic Competition",
+      "tags": [
+        "AREA",
+        "ECON",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6613",
+      "name": "European Intelligence and Strategic Cooperation",
+      "tags": [
+        "AREA",
+        "INTEL",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6614",
+      "name": "Intelligence and Psychology",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6615",
+      "name": "Transatlantic Security & Defense",
+      "tags": [
+        "AREA",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6616",
+      "name": "National Security & Climate Change",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6617",
+      "name": "Race, Religion, and Terrorism",
+      "tags": [
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6618",
+      "name": "Examining Econ Devt in Africa",
+      "tags": [
+        "AREA",
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6619",
+      "name": "Human Intelligence Operations",
+      "tags": [
+        "INTEL",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6620",
+      "name": "National Security Resilience and Crisis Management",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6621",
+      "name": "Strategic Red Teaming",
+      "tags": [
+        "INTEL",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6622",
+      "name": "Science and Grand Strategy",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6623",
+      "name": "Great Power Compet in Lat Amer",
+      "tags": [
+        "AREA",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6624",
+      "name": "Thinking Critically: Intelligence Policy",
+      "tags": [
+        "INTEL",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6625",
+      "name": "Allies, Partners, & US Nat Sec",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6626",
+      "name": "Oil and International Security",
+      "tags": [
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6627",
+      "name": "Adv Tech/Compet/Nat Security",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6628",
+      "name": "Trafficking: Humans, Drugs, & Arms",
+      "tags": [
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6629",
+      "name": "Force Planning",
+      "tags": [
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6630",
+      "name": "Countering Cybercrime",
+      "tags": [
+        "ECON",
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6631",
+      "name": "Outer Space/Strat Capabilites",
+      "tags": [
+        "TECH",
+        "IS",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6632",
+      "name": "Space Policy and Power",
+      "tags": [
+        "TECH",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6634",
+      "name": "China and the International Order",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6635",
+      "name": "Hands-On Cyber Forensics",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6636",
+      "name": "Grand Strategy",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6637",
+      "name": "National Security and Human Rights",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6638/JCIV 4500",
+      "name": "Forgotten Women in Mass Crime",
+      "tags": [],
+      "notes": null
+    },
+    {
+      "number": "SEST-6639",
+      "name": "(En)Gendered Security",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6640",
+      "name": "Decision-making in Stressful Environments",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6643",
+      "name": "The Business of National Security",
+      "tags": [
+        "ECON",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6644",
+      "name": "The Economics of War",
+      "tags": [
+        "ECON",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6646",
+      "name": "U.S. Defense Policy Middle East",
+      "tags": [
+        "AREA",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6647",
+      "name": "Coups, Uprisings, & Rebellions",
+      "tags": [
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6649",
+      "name": "Hands-on Unconven Technologies",
+      "tags": [
+        "TECH",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6650",
+      "name": "Hands-on Open-source intelligence",
+      "tags": [
+        "TECH",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6651",
+      "name": "CT Strategy and Policy",
+      "tags": [
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6652",
+      "name": "Iran's National Security Policies",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6653",
+      "name": "Hands On Cyber Investigations",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6654",
+      "name": "Disruptive Analytics: Theory, Method, & Technology",
+      "tags": [
+        "TECH",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6657",
+      "name": "Economic Intelligence in Policymaking",
+      "tags": [
+        "ECON",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6658",
+      "name": "Economy & Nat Sec: 21st cent",
+      "tags": [
+        "ECON",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6659",
+      "name": "African Armed Movements",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6660",
+      "name": "Responses to Violent Extremism",
+      "tags": [
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6661",
+      "name": "A New Great Power Competition",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6662",
+      "name": "Power/Violence in Central Asia",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6663",
+      "name": "Strategic Assessment: North Korea",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6665",
+      "name": "Hands on Python for Cyber Security",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6668",
+      "name": "National Security Crisis Decision Making",
+      "tags": [
+        "IS",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6669",
+      "name": "Hands-On Cybersecurity",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6672",
+      "name": "National Cyber Security Strategy and Policy",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6673",
+      "name": "Conflict Stabilization",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6674",
+      "name": "Weapons of War",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6675",
+      "name": "The Art of War & Grand Strategy",
+      "tags": [
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6677",
+      "name": "Russian National Security Policy",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6680",
+      "name": "Naval Strategy",
+      "tags": [
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6682",
+      "name": "Russian Security in Eurasia/Beyond",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6683",
+      "name": "Quantum Info Sci and Nat Sec",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6684",
+      "name": "Russian Influence in Europe",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6686",
+      "name": "Maritime Sec/Great Power Comp",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6687",
+      "name": "Black Sea Security",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6688",
+      "name": "Irreg Warfare and Strat Compet",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6689",
+      "name": "Weapons of Mass Destruction and Catastrophic Terrorism",
+      "tags": [
+        "TECH",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6690",
+      "name": "Migration and Security in the Arctic",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6691",
+      "name": "True Crime & Amer Foreign Pol",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6692",
+      "name": "Conflict, Security, and Development",
+      "tags": [
+        "IS",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6693",
+      "name": "Domestic Terrorism",
+      "tags": [
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6696",
+      "name": "Seapower in the Indo-Pacific",
+      "tags": [
+        "AREA",
+        "IS",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6697",
+      "name": "Conflict-related Sexual Violence",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6698",
+      "name": "Gender and War",
+      "tags": [
+        "IS",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6699",
+      "name": "Gender and SecurityToolbox",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST 6700",
+      "name": "Hunter(M) Gatherer(F) Nat Sec",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6701",
+      "name": "Hacking for Defense",
+      "tags": [
+        "TECH",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6702",
+      "name": "Jihadi-Salafi Violent Extremism",
+      "tags": [
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6703",
+      "name": "The Dark Arts",
+      "tags": [
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6705",
+      "name": "Data Visualization",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6706",
+      "name": "Soft Power and Nat Sec",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": "Formerly Global Publics and Nat Sec."
+    },
+    {
+      "number": "SEST-6708",
+      "name": "Mass Atrocities and International Law",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6709",
+      "name": "Cybersecurity Strategy:Public and Private Sector Persp",
+      "tags": [
+        "TECH",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6711",
+      "name": "Sec. Cooperation: Policy & Process",
+      "tags": [
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6712",
+      "name": "Nuclear Weapons Technology",
+      "tags": [],
+      "notes": "*Skills based workshop; offered pass/fail; will appear on the transcript will not count toward degree requirments for graduation"
+    },
+    {
+      "number": "SEST-6713",
+      "name": "Russian Military Power",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6714",
+      "name": "Intelligence/Law Enforcement in the Cyber Domain",
+      "tags": [
+        "TECH",
+        "INTEL",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6715",
+      "name": "Turkey/Russia/Iran: Hot Wars",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6716",
+      "name": "Foreign Intelligence Communities",
+      "tags": [
+        "INTEL",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6717",
+      "name": "Ethics and Intel Support to National Security",
+      "tags": [
+        "INTEL",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6718",
+      "name": "Intelligence and War",
+      "tags": [
+        "INTEL",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6719",
+      "name": "MNCs in International Security",
+      "tags": [
+        "ECON",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6720",
+      "name": "Finance of Transnatl Threats",
+      "tags": [
+        "ECON",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6721",
+      "name": "National Security through Fiction",
+      "tags": [
+        "IS",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6723",
+      "name": "Transnational Crime",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6724",
+      "name": "Security in the Nordic-Baltic Region",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6725",
+      "name": "Tactical Innovation in Warfare",
+      "tags": [
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6727",
+      "name": "Economic and Industrial Espionage",
+      "tags": [
+        "ECON",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6728",
+      "name": "Russian Strategy in the Middle East",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6729",
+      "name": "Intro Statisics for Policymakers",
+      "tags": [
+        "ECON",
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6730",
+      "name": "Emerging Tech & Nat Sec",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6731",
+      "name": "Int Econ & National Security",
+      "tags": [
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6732",
+      "name": "Foreign Policy for Big Tech",
+      "tags": [
+        "TECH",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6733",
+      "name": "The Story of Russian Power",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6735",
+      "name": "Global AI Governance",
+      "tags": [
+        "TECH",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6736",
+      "name": "Economics of Competitors & Adversaries",
+      "tags": [
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6737",
+      "name": "Who Will Rule the 21st Century",
+      "tags": [
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6738",
+      "name": "Russia and Its Military",
+      "tags": [
+        "AREA",
+        "IS",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6739",
+      "name": "Introduction to CyberHUMINT",
+      "tags": [
+        "TECH",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6740",
+      "name": "Competitive Comm Strategies",
+      "tags": [
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6741",
+      "name": "Online Terrorism",
+      "tags": [
+        "TECH",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6742",
+      "name": "Geopolitics of Energy",
+      "tags": [
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6743",
+      "name": "Sanctions in US Foreign Policy",
+      "tags": [
+        "ECON",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6744",
+      "name": "Air power Ops & Theory: Bombs, Drones, and Hypersonics",
+      "tags": [
+        "TECH",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6745",
+      "name": "Russian Propaganda & Influence",
+      "tags": [
+        "AREA",
+        "INTEL",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6746",
+      "name": "Cog Psych for Security Studies",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6747",
+      "name": "Chinese National Security",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6748",
+      "name": "China, BRI and Strategic Competition",
+      "tags": [
+        "AREA",
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6749",
+      "name": "Israel/Palest: Contemp Conflict",
+      "tags": [
+        "AREA",
+        "IS",
+        "TSV",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6750",
+      "name": "Persian Gulf Security",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6751",
+      "name": "Cyber Threat Intel and Nat Sec",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6752",
+      "name": "National Security Space Policy & Technology",
+      "tags": [
+        "TECH",
+        "MILOPS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6753",
+      "name": "U.S. Alliances and Defense Diplomacy in East Asia",
+      "tags": [
+        "AREA",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6754",
+      "name": "Taiwan & US Policy",
+      "tags": [
+        "AREA",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6756",
+      "name": "Software-Defined Warfare",
+      "tags": [
+        "TECH",
+        "MILOPS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6757",
+      "name": "US Nat Sec & Intel Policy",
+      "tags": [
+        "INTEL",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6759",
+      "name": "Israeli National Security Strategy",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6762",
+      "name": "Critical Minerals & National Security",
+      "tags": [
+        "ECON",
+        "IS",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6763",
+      "name": "Russian Security State",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6764",
+      "name": "Runet to Cyberwar",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6765",
+      "name": "US Russia Foreign Policy",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6766",
+      "name": "Citizen Security & Democracy in Latin America",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6768",
+      "name": "IR & NewRegionalism:LatAmCarib",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6769",
+      "name": "China's Evolving Role in Africa",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6770",
+      "name": "US Policy in Africa",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST 6771",
+      "name": "Nuclear Age in the Middle East",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-7100",
+      "name": "Research Seminar",
+      "tags": [],
+      "notes": null
+    },
+    {
+      "number": "SEST-7101",
+      "name": "Writing for Publication",
+      "tags": [],
+      "notes": null
+    },
+    {
+      "number": "SEST-7102",
+      "name": "Writing for Publication: Irregular Warfare (IW)",
+      "tags": [
+        "MILOPS",
+        "TSV"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-7925",
+      "name": "SSP Internship Tutorial",
+      "tags": [],
+      "notes": "Offered every Fall, Spring, and Summer semester for students requiring academic internship credit"
+    },
+    {
+      "number": "SEST-8701",
+      "name": "Hacking for Defense",
+      "tags": [
+        "TECH",
+        "USNP"
+      ],
+      "notes": "Formerly SEST-6701."
+    },
+    {
+      "number": "SEST-8670",
+      "name": "Python for Machine Learning",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    }
+  ],
+  "byTag": {
+    "ECON": [
+      {
+        "number": "SEST-4444",
+        "name": "Combating Terrorist Financing",
+        "tags": [
+          "ECON",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-5514",
+        "name": "Methods of Military Analysis",
+        "tags": [
+          "ECON",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6506",
+        "name": "Game Theory",
+        "tags": [
+          "ECON"
+        ]
+      },
+      {
+        "number": "SEST-6517",
+        "name": "Ops Research",
+        "tags": [
+          "ECON"
+        ]
+      },
+      {
+        "number": "SEST-6535",
+        "name": "Economics and Security: Microdimensions",
+        "tags": [
+          "ECON",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6539",
+        "name": "Economics of Saudi Power",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6542",
+        "name": "Security Challenges of Illicit Economies",
+        "tags": [
+          "ECON",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6565",
+        "name": "Environmental Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6591",
+        "name": "Political Economy of Contemporary Conflict",
+        "tags": [
+          "ECON",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6592",
+        "name": "International Arms Trade",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6596",
+        "name": "Budgeting for US Nat Defense",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6612",
+        "name": "Chinese Economic Espionage & Strategic Competition",
+        "tags": [
+          "AREA",
+          "ECON",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6618",
+        "name": "Examining Econ Devt in Africa",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6626",
+        "name": "Oil and International Security",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6630",
+        "name": "Countering Cybercrime",
+        "tags": [
+          "ECON",
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6643",
+        "name": "The Business of National Security",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6644",
+        "name": "The Economics of War",
+        "tags": [
+          "ECON",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6657",
+        "name": "Economic Intelligence in Policymaking",
+        "tags": [
+          "ECON",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6658",
+        "name": "Economy & Nat Sec: 21st cent",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6719",
+        "name": "MNCs in International Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6720",
+        "name": "Finance of Transnatl Threats",
+        "tags": [
+          "ECON",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6727",
+        "name": "Economic and Industrial Espionage",
+        "tags": [
+          "ECON",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6729",
+        "name": "Intro Statisics for Policymakers",
+        "tags": [
+          "ECON",
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6731",
+        "name": "Int Econ & National Security",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6736",
+        "name": "Economics of Competitors & Adversaries",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6742",
+        "name": "Geopolitics of Energy",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6743",
+        "name": "Sanctions in US Foreign Policy",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6748",
+        "name": "China, BRI and Strategic Competition",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6762",
+        "name": "Critical Minerals & National Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      }
+    ],
+    "TSV": [
+      {
+        "number": "SEST-4444",
+        "name": "Combating Terrorist Financing",
+        "tags": [
+          "ECON",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-4445",
+        "name": "The Forensics of Mass Killing",
+        "tags": [
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-5460",
+        "name": "Terrorism/Counterterrorism",
+        "tags": [
+          "IS",
+          "TSV",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-6370",
+        "name": "Ethnic Conflict and Civil War",
+        "tags": [
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6502",
+        "name": "Research Methods for Security Studies",
+        "tags": [
+          "INTEL",
+          "IS",
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6519",
+        "name": "Domestic Intel & Homeland Sec",
+        "tags": [
+          "INTEL",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6520",
+        "name": "Counterinsurgency",
+        "tags": [
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6525",
+        "name": "South-East Asian Security",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6533",
+        "name": "Civil Wars & the Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6535",
+        "name": "Economics and Security: Microdimensions",
+        "tags": [
+          "ECON",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6542",
+        "name": "Security Challenges of Illicit Economies",
+        "tags": [
+          "ECON",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6544",
+        "name": "Gender and Terrorism",
+        "tags": [
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6547",
+        "name": "Homegrown Radicalization and Terrorist Recruit",
+        "tags": [
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6551",
+        "name": "Christianity, Nationalism & Violence",
+        "tags": [
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6568",
+        "name": "Human Behavior in War",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6573",
+        "name": "Security Issues of South Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6579",
+        "name": "Warfare in the Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6580",
+        "name": "Stability Challenges: South/SE Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6586",
+        "name": "Europe: Radicalism and Terrorism",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6591",
+        "name": "Political Economy of Contemporary Conflict",
+        "tags": [
+          "ECON",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6593",
+        "name": "Post 9/11Terror/Intel Analysis",
+        "tags": [
+          "INTEL",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6600",
+        "name": "Hate Groups and Social Media",
+        "tags": [
+          "TECH",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6605",
+        "name": "Terrorism: M East & N Africa",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6606",
+        "name": "National Security Law",
+        "tags": [
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6617",
+        "name": "Race, Religion, and Terrorism",
+        "tags": [
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6628",
+        "name": "Trafficking: Humans, Drugs, & Arms",
+        "tags": [
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6647",
+        "name": "Coups, Uprisings, & Rebellions",
+        "tags": [
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6651",
+        "name": "CT Strategy and Policy",
+        "tags": [
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6659",
+        "name": "African Armed Movements",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6660",
+        "name": "Responses to Violent Extremism",
+        "tags": [
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6689",
+        "name": "Weapons of Mass Destruction and Catastrophic Terrorism",
+        "tags": [
+          "TECH",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6692",
+        "name": "Conflict, Security, and Development",
+        "tags": [
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6693",
+        "name": "Domestic Terrorism",
+        "tags": [
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6702",
+        "name": "Jihadi-Salafi Violent Extremism",
+        "tags": [
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6715",
+        "name": "Turkey/Russia/Iran: Hot Wars",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6717",
+        "name": "Ethics and Intel Support to National Security",
+        "tags": [
+          "INTEL",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6720",
+        "name": "Finance of Transnatl Threats",
+        "tags": [
+          "ECON",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6741",
+        "name": "Online Terrorism",
+        "tags": [
+          "TECH",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6749",
+        "name": "Israel/Palest: Contemp Conflict",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-7102",
+        "name": "Writing for Publication: Irregular Warfare (IW)",
+        "tags": [
+          "MILOPS",
+          "TSV"
+        ]
+      }
+    ],
+    "AREA": [
+      {
+        "number": "SEST-4447",
+        "name": "Jewish/Muslim Coexistence in MidEast&NAfrica",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6400",
+        "name": "The Evolution of Asia Strategy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6510",
+        "name": "Transnational Institutions in Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6513",
+        "name": "Russian Intel/Info Operations",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6522",
+        "name": "Comparative Pol: Middle East",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6524",
+        "name": "China's Grand Strategy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6525",
+        "name": "South-East Asian Security",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6527",
+        "name": "Indian Foreign Policy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6529",
+        "name": "Latin American Politics & Security",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6533",
+        "name": "Civil Wars & the Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6539",
+        "name": "Economics of Saudi Power",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6540",
+        "name": "PRC Intel/Security/Influence",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6555",
+        "name": "Crises and Responses in Transatlantic Relations",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6558",
+        "name": "Political History of Afghanistan",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6563",
+        "name": "Central Asia and Eurasian Geopolitics",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6570",
+        "name": "African Security Issues & Policy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6571",
+        "name": "Security Issues in East Asia",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6572",
+        "name": "Europe, Security & Competition",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6573",
+        "name": "Security Issues of South Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6579",
+        "name": "Warfare in the Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6580",
+        "name": "Stability Challenges: South/SE Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6582",
+        "name": "Defense & Security Policies of US Allies and Partners Indo-Pacific",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6583",
+        "name": "China and its Military",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6585",
+        "name": "Security and Governance in North Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6586",
+        "name": "Europe: Radicalism and Terrorism",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6589",
+        "name": "Central Asia & South Caucasus",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6605",
+        "name": "Terrorism: M East & N Africa",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6608",
+        "name": "DPRK Nuclear/Missile Programs",
+        "tags": [
+          "AREA",
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6612",
+        "name": "Chinese Economic Espionage & Strategic Competition",
+        "tags": [
+          "AREA",
+          "ECON",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6613",
+        "name": "European Intelligence and Strategic Cooperation",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6615",
+        "name": "Transatlantic Security & Defense",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6618",
+        "name": "Examining Econ Devt in Africa",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6623",
+        "name": "Great Power Compet in Lat Amer",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6634",
+        "name": "China and the International Order",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6646",
+        "name": "U.S. Defense Policy Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6652",
+        "name": "Iran's National Security Policies",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6659",
+        "name": "African Armed Movements",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6662",
+        "name": "Power/Violence in Central Asia",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6663",
+        "name": "Strategic Assessment: North Korea",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6677",
+        "name": "Russian National Security Policy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6682",
+        "name": "Russian Security in Eurasia/Beyond",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6684",
+        "name": "Russian Influence in Europe",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6686",
+        "name": "Maritime Sec/Great Power Comp",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6687",
+        "name": "Black Sea Security",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6690",
+        "name": "Migration and Security in the Arctic",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6696",
+        "name": "Seapower in the Indo-Pacific",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6713",
+        "name": "Russian Military Power",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6715",
+        "name": "Turkey/Russia/Iran: Hot Wars",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6724",
+        "name": "Security in the Nordic-Baltic Region",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6728",
+        "name": "Russian Strategy in the Middle East",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6733",
+        "name": "The Story of Russian Power",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6738",
+        "name": "Russia and Its Military",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6745",
+        "name": "Russian Propaganda & Influence",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6747",
+        "name": "Chinese National Security",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6748",
+        "name": "China, BRI and Strategic Competition",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6749",
+        "name": "Israel/Palest: Contemp Conflict",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6750",
+        "name": "Persian Gulf Security",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6753",
+        "name": "U.S. Alliances and Defense Diplomacy in East Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6754",
+        "name": "Taiwan & US Policy",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6759",
+        "name": "Israeli National Security Strategy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6763",
+        "name": "Russian Security State",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6764",
+        "name": "Runet to Cyberwar",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6765",
+        "name": "US Russia Foreign Policy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6766",
+        "name": "Citizen Security & Democracy in Latin America",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6768",
+        "name": "IR & NewRegionalism:LatAmCarib",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6769",
+        "name": "China's Evolving Role in Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6770",
+        "name": "US Policy in Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST 6771",
+        "name": "Nuclear Age in the Middle East",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      }
+    ],
+    "IS": [
+      {
+        "number": "SEST-4447",
+        "name": "Jewish/Muslim Coexistence in MidEast&NAfrica",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-5300",
+        "name": "Core: International Security",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-5460",
+        "name": "Terrorism/Counterterrorism",
+        "tags": [
+          "IS",
+          "TSV",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-6370",
+        "name": "Ethnic Conflict and Civil War",
+        "tags": [
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6400",
+        "name": "The Evolution of Asia Strategy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6502",
+        "name": "Research Methods for Security Studies",
+        "tags": [
+          "INTEL",
+          "IS",
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6503",
+        "name": "Writing for Security Professionals",
+        "tags": [
+          "INTEL",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6505",
+        "name": "Comparative Civil-Military Relations",
+        "tags": [
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6510",
+        "name": "Transnational Institutions in Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6513",
+        "name": "Russian Intel/Info Operations",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6522",
+        "name": "Comparative Pol: Middle East",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6523",
+        "name": "Armed Group Military Integration",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6524",
+        "name": "China's Grand Strategy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6525",
+        "name": "South-East Asian Security",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6527",
+        "name": "Indian Foreign Policy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6529",
+        "name": "Latin American Politics & Security",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6531",
+        "name": "Great Power Strategy: US/China",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6533",
+        "name": "Civil Wars & the Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6534",
+        "name": "Globalization and Security",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6536",
+        "name": "The UN, US and Peacekeeping",
+        "tags": [
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6539",
+        "name": "Economics of Saudi Power",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6540",
+        "name": "PRC Intel/Security/Influence",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6541",
+        "name": "Diversity and Inclusion in CR/Development",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6542",
+        "name": "Security Challenges of Illicit Economies",
+        "tags": [
+          "ECON",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6545",
+        "name": "(Dis)Info Wars: Geopolitics In the Digital Age",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6546",
+        "name": "Borders, Power, and Security",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6548",
+        "name": "Weapons Proliferation and Security",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6549",
+        "name": "Security, Climate Change, and Migration",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6553",
+        "name": "International Negotiations & Crisis Response",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6555",
+        "name": "Crises and Responses in Transatlantic Relations",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6556",
+        "name": "Global Health Security",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6557",
+        "name": "The Future of Arms Control",
+        "tags": [
+          "TECH",
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6558",
+        "name": "Political History of Afghanistan",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6561",
+        "name": "Modeling Complexity: Int Sec",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6563",
+        "name": "Central Asia and Eurasian Geopolitics",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6565",
+        "name": "Environmental Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6568",
+        "name": "Human Behavior in War",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6570",
+        "name": "African Security Issues & Policy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6571",
+        "name": "Security Issues in East Asia",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6572",
+        "name": "Europe, Security & Competition",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6573",
+        "name": "Security Issues of South Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6579",
+        "name": "Warfare in the Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6580",
+        "name": "Stability Challenges: South/SE Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6581",
+        "name": "Challenges of Chem/Bio Weapons",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6582",
+        "name": "Defense & Security Policies of US Allies and Partners Indo-Pacific",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6583",
+        "name": "China and its Military",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6585",
+        "name": "Security and Governance in North Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6586",
+        "name": "Europe: Radicalism and Terrorism",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6587",
+        "name": "Technology Policy Across Borders",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6589",
+        "name": "Central Asia & South Caucasus",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6591",
+        "name": "Political Economy of Contemporary Conflict",
+        "tags": [
+          "ECON",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6592",
+        "name": "International Arms Trade",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6594",
+        "name": "Energy and Security",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6595",
+        "name": "Climate Change in the US: Econ and Nat Sec",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6599",
+        "name": "Irregular War in Film",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6600",
+        "name": "Hate Groups and Social Media",
+        "tags": [
+          "TECH",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6603",
+        "name": "International Law and Security",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6605",
+        "name": "Terrorism: M East & N Africa",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6608",
+        "name": "DPRK Nuclear/Missile Programs",
+        "tags": [
+          "AREA",
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6613",
+        "name": "European Intelligence and Strategic Cooperation",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6615",
+        "name": "Transatlantic Security & Defense",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6616",
+        "name": "National Security & Climate Change",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6618",
+        "name": "Examining Econ Devt in Africa",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6623",
+        "name": "Great Power Compet in Lat Amer",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6625",
+        "name": "Allies, Partners, & US Nat Sec",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6626",
+        "name": "Oil and International Security",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6628",
+        "name": "Trafficking: Humans, Drugs, & Arms",
+        "tags": [
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6631",
+        "name": "Outer Space/Strat Capabilites",
+        "tags": [
+          "TECH",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6634",
+        "name": "China and the International Order",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6636",
+        "name": "Grand Strategy",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6639",
+        "name": "(En)Gendered Security",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6640",
+        "name": "Decision-making in Stressful Environments",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6646",
+        "name": "U.S. Defense Policy Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6647",
+        "name": "Coups, Uprisings, & Rebellions",
+        "tags": [
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6652",
+        "name": "Iran's National Security Policies",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6659",
+        "name": "African Armed Movements",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6661",
+        "name": "A New Great Power Competition",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6662",
+        "name": "Power/Violence in Central Asia",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6663",
+        "name": "Strategic Assessment: North Korea",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6668",
+        "name": "National Security Crisis Decision Making",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6673",
+        "name": "Conflict Stabilization",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6677",
+        "name": "Russian National Security Policy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6682",
+        "name": "Russian Security in Eurasia/Beyond",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6684",
+        "name": "Russian Influence in Europe",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6686",
+        "name": "Maritime Sec/Great Power Comp",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6687",
+        "name": "Black Sea Security",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6688",
+        "name": "Irreg Warfare and Strat Compet",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6689",
+        "name": "Weapons of Mass Destruction and Catastrophic Terrorism",
+        "tags": [
+          "TECH",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6690",
+        "name": "Migration and Security in the Arctic",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6692",
+        "name": "Conflict, Security, and Development",
+        "tags": [
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6696",
+        "name": "Seapower in the Indo-Pacific",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6697",
+        "name": "Conflict-related Sexual Violence",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6698",
+        "name": "Gender and War",
+        "tags": [
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6699",
+        "name": "Gender and SecurityToolbox",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6706",
+        "name": "Soft Power and Nat Sec",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6708",
+        "name": "Mass Atrocities and International Law",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6713",
+        "name": "Russian Military Power",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6715",
+        "name": "Turkey/Russia/Iran: Hot Wars",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6716",
+        "name": "Foreign Intelligence Communities",
+        "tags": [
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6719",
+        "name": "MNCs in International Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6721",
+        "name": "National Security through Fiction",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6723",
+        "name": "Transnational Crime",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6724",
+        "name": "Security in the Nordic-Baltic Region",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6728",
+        "name": "Russian Strategy in the Middle East",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6731",
+        "name": "Int Econ & National Security",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6732",
+        "name": "Foreign Policy for Big Tech",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6733",
+        "name": "The Story of Russian Power",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6735",
+        "name": "Global AI Governance",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6736",
+        "name": "Economics of Competitors & Adversaries",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6738",
+        "name": "Russia and Its Military",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6740",
+        "name": "Competitive Comm Strategies",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6742",
+        "name": "Geopolitics of Energy",
+        "tags": [
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6745",
+        "name": "Russian Propaganda & Influence",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6747",
+        "name": "Chinese National Security",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6748",
+        "name": "China, BRI and Strategic Competition",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6749",
+        "name": "Israel/Palest: Contemp Conflict",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6750",
+        "name": "Persian Gulf Security",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6753",
+        "name": "U.S. Alliances and Defense Diplomacy in East Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6754",
+        "name": "Taiwan & US Policy",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6759",
+        "name": "Israeli National Security Strategy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6762",
+        "name": "Critical Minerals & National Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6763",
+        "name": "Russian Security State",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6764",
+        "name": "Runet to Cyberwar",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6765",
+        "name": "US Russia Foreign Policy",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6766",
+        "name": "Citizen Security & Democracy in Latin America",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6768",
+        "name": "IR & NewRegionalism:LatAmCarib",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6769",
+        "name": "China's Evolving Role in Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6770",
+        "name": "US Policy in Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST 6771",
+        "name": "Nuclear Age in the Middle East",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      }
+    ],
+    "CORE": [
+      {
+        "number": "SEST-5000",
+        "name": "Theory and Practice of Security",
+        "tags": [
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5001",
+        "name": "Strategy/Policy/Military Operations",
+        "tags": [
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5100",
+        "name": "U.S. National Security Policy",
+        "tags": [
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5210",
+        "name": "Theory and Practice of Intelligence",
+        "tags": [
+          "INTEL",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5460",
+        "name": "Terrorism/Counterterrorism",
+        "tags": [
+          "IS",
+          "TSV",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5650",
+        "name": "Nuclear Weapons: History, Strategy, Technology",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP",
+          "CORE"
+        ]
+      }
+    ],
+    "USNP": [
+      {
+        "number": "SEST-5100",
+        "name": "U.S. National Security Policy",
+        "tags": [
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5210",
+        "name": "Theory and Practice of Intelligence",
+        "tags": [
+          "INTEL",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5460",
+        "name": "Terrorism/Counterterrorism",
+        "tags": [
+          "IS",
+          "TSV",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5514",
+        "name": "Methods of Military Analysis",
+        "tags": [
+          "ECON",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST 5526",
+        "name": "Modern Conv Mil Ops",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5650",
+        "name": "Nuclear Weapons: History, Strategy, Technology",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5700",
+        "name": "Tools for Technology Policy",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5732",
+        "name": "Core: Nuclear Deterrence: Past, Present, and Future",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5733",
+        "name": "Cyber Operations",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5734",
+        "name": "Artificial Intelligence & National Security",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6502",
+        "name": "Research Methods for Security Studies",
+        "tags": [
+          "INTEL",
+          "IS",
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6503",
+        "name": "Writing for Security Professionals",
+        "tags": [
+          "INTEL",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6509",
+        "name": "National Security Planning, Strategy, and Decision-Making for the 21st Century",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6511",
+        "name": "NSC: US Policy via Simulations",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6512",
+        "name": "Congress and US National Security Policy",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6515",
+        "name": "Net Assessment/Strategic Think",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6516",
+        "name": "Military Effectiveness",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6518",
+        "name": "Space Strategy, Policy, and Operations",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6519",
+        "name": "Domestic Intel & Homeland Sec",
+        "tags": [
+          "INTEL",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6520",
+        "name": "Counterinsurgency",
+        "tags": [
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6531",
+        "name": "Great Power Strategy: US/China",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6543",
+        "name": "Crisis Decision-Making in Simulations",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6549",
+        "name": "Security, Climate Change, and Migration",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6551",
+        "name": "Christianity, Nationalism & Violence",
+        "tags": [
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6554",
+        "name": "Military Innovation and Security",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6555",
+        "name": "Crises and Responses in Transatlantic Relations",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6557",
+        "name": "The Future of Arms Control",
+        "tags": [
+          "TECH",
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6564",
+        "name": "US Nuclear Strategy",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6565",
+        "name": "Environmental Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6567",
+        "name": "Space Tech & Security",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6574",
+        "name": "National Security Surveillance",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6582",
+        "name": "Defense & Security Policies of US Allies and Partners Indo-Pacific",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6591",
+        "name": "Political Economy of Contemporary Conflict",
+        "tags": [
+          "ECON",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6594",
+        "name": "Energy and Security",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6596",
+        "name": "Budgeting for US Nat Defense",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6597",
+        "name": "LGBTQ Issues in National Security",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6598",
+        "name": "Military Campaign Analysis: Decision Making in War",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6599",
+        "name": "Irregular War in Film",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6600",
+        "name": "Hate Groups and Social Media",
+        "tags": [
+          "TECH",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6601",
+        "name": "Social Media Impact on National Sec",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6604",
+        "name": "Media and National Security",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6606",
+        "name": "National Security Law",
+        "tags": [
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6607",
+        "name": "Counterintelligence Today",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6610",
+        "name": "Civil-Military Relations",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6611",
+        "name": "Covert Action/Counterintelligence",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6615",
+        "name": "Transatlantic Security & Defense",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6616",
+        "name": "National Security & Climate Change",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6619",
+        "name": "Human Intelligence Operations",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6620",
+        "name": "National Security Resilience and Crisis Management",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6621",
+        "name": "Strategic Red Teaming",
+        "tags": [
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6623",
+        "name": "Great Power Compet in Lat Amer",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6624",
+        "name": "Thinking Critically: Intelligence Policy",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6625",
+        "name": "Allies, Partners, & US Nat Sec",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6629",
+        "name": "Force Planning",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6632",
+        "name": "Space Policy and Power",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6636",
+        "name": "Grand Strategy",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6637",
+        "name": "National Security and Human Rights",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6643",
+        "name": "The Business of National Security",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6644",
+        "name": "The Economics of War",
+        "tags": [
+          "ECON",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6646",
+        "name": "U.S. Defense Policy Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6651",
+        "name": "CT Strategy and Policy",
+        "tags": [
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6658",
+        "name": "Economy & Nat Sec: 21st cent",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6661",
+        "name": "A New Great Power Competition",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6668",
+        "name": "National Security Crisis Decision Making",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6672",
+        "name": "National Cyber Security Strategy and Policy",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6674",
+        "name": "Weapons of War",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6680",
+        "name": "Naval Strategy",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6688",
+        "name": "Irreg Warfare and Strat Compet",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6691",
+        "name": "True Crime & Amer Foreign Pol",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6692",
+        "name": "Conflict, Security, and Development",
+        "tags": [
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6693",
+        "name": "Domestic Terrorism",
+        "tags": [
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST 6700",
+        "name": "Hunter(M) Gatherer(F) Nat Sec",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6701",
+        "name": "Hacking for Defense",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6706",
+        "name": "Soft Power and Nat Sec",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6709",
+        "name": "Cybersecurity Strategy:Public and Private Sector Persp",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6714",
+        "name": "Intelligence/Law Enforcement in the Cyber Domain",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6717",
+        "name": "Ethics and Intel Support to National Security",
+        "tags": [
+          "INTEL",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6718",
+        "name": "Intelligence and War",
+        "tags": [
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6719",
+        "name": "MNCs in International Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6720",
+        "name": "Finance of Transnatl Threats",
+        "tags": [
+          "ECON",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6721",
+        "name": "National Security through Fiction",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6737",
+        "name": "Who Will Rule the 21st Century",
+        "tags": [
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6740",
+        "name": "Competitive Comm Strategies",
+        "tags": [
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6743",
+        "name": "Sanctions in US Foreign Policy",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6749",
+        "name": "Israel/Palest: Contemp Conflict",
+        "tags": [
+          "AREA",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6752",
+        "name": "National Security Space Policy & Technology",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6753",
+        "name": "U.S. Alliances and Defense Diplomacy in East Asia",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6754",
+        "name": "Taiwan & US Policy",
+        "tags": [
+          "AREA",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6757",
+        "name": "US Nat Sec & Intel Policy",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6762",
+        "name": "Critical Minerals & National Security",
+        "tags": [
+          "ECON",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-8701",
+        "name": "Hacking for Defense",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      }
+    ],
+    "INTEL": [
+      {
+        "number": "SEST-5210",
+        "name": "Theory and Practice of Intelligence",
+        "tags": [
+          "INTEL",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5734",
+        "name": "Artificial Intelligence & National Security",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6502",
+        "name": "Research Methods for Security Studies",
+        "tags": [
+          "INTEL",
+          "IS",
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6503",
+        "name": "Writing for Security Professionals",
+        "tags": [
+          "INTEL",
+          "IS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6507",
+        "name": "Intelligence Oversight",
+        "tags": [
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6508",
+        "name": "Writing for Intel/Analysis",
+        "tags": [
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6513",
+        "name": "Russian Intel/Info Operations",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6515",
+        "name": "Net Assessment/Strategic Think",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6519",
+        "name": "Domestic Intel & Homeland Sec",
+        "tags": [
+          "INTEL",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6532",
+        "name": "Comparing Intelligence Services",
+        "tags": [
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6540",
+        "name": "PRC Intel/Security/Influence",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6552",
+        "name": "Disinformation/Info Ops&Strat",
+        "tags": [
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6562",
+        "name": "Countering Info Disorder",
+        "tags": [
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6574",
+        "name": "National Security Surveillance",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6576",
+        "name": "Chinese Open Source Analysis",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6577",
+        "name": "GIS for Security Studies",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6584",
+        "name": "Global Cyber Threats",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6593",
+        "name": "Post 9/11Terror/Intel Analysis",
+        "tags": [
+          "INTEL",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6607",
+        "name": "Counterintelligence Today",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6611",
+        "name": "Covert Action/Counterintelligence",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6612",
+        "name": "Chinese Economic Espionage & Strategic Competition",
+        "tags": [
+          "AREA",
+          "ECON",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6613",
+        "name": "European Intelligence and Strategic Cooperation",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6614",
+        "name": "Intelligence and Psychology",
+        "tags": [
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6619",
+        "name": "Human Intelligence Operations",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6621",
+        "name": "Strategic Red Teaming",
+        "tags": [
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6624",
+        "name": "Thinking Critically: Intelligence Policy",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6650",
+        "name": "Hands-on Open-source intelligence",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6654",
+        "name": "Disruptive Analytics: Theory, Method, & Technology",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6657",
+        "name": "Economic Intelligence in Policymaking",
+        "tags": [
+          "ECON",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6714",
+        "name": "Intelligence/Law Enforcement in the Cyber Domain",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6716",
+        "name": "Foreign Intelligence Communities",
+        "tags": [
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6717",
+        "name": "Ethics and Intel Support to National Security",
+        "tags": [
+          "INTEL",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6718",
+        "name": "Intelligence and War",
+        "tags": [
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6727",
+        "name": "Economic and Industrial Espionage",
+        "tags": [
+          "ECON",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6739",
+        "name": "Introduction to CyberHUMINT",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6745",
+        "name": "Russian Propaganda & Influence",
+        "tags": [
+          "AREA",
+          "INTEL",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6746",
+        "name": "Cog Psych for Security Studies",
+        "tags": [
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6757",
+        "name": "US Nat Sec & Intel Policy",
+        "tags": [
+          "INTEL",
+          "USNP"
+        ]
+      }
+    ],
+    "MILOPS": [
+      {
+        "number": "SEST-5514",
+        "name": "Methods of Military Analysis",
+        "tags": [
+          "ECON",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST 5526",
+        "name": "Modern Conv Mil Ops",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5650",
+        "name": "Nuclear Weapons: History, Strategy, Technology",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5732",
+        "name": "Core: Nuclear Deterrence: Past, Present, and Future",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5733",
+        "name": "Cyber Operations",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6502",
+        "name": "Research Methods for Security Studies",
+        "tags": [
+          "INTEL",
+          "IS",
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6505",
+        "name": "Comparative Civil-Military Relations",
+        "tags": [
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6515",
+        "name": "Net Assessment/Strategic Think",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6516",
+        "name": "Military Effectiveness",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6518",
+        "name": "Space Strategy, Policy, and Operations",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6520",
+        "name": "Counterinsurgency",
+        "tags": [
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6536",
+        "name": "The UN, US and Peacekeeping",
+        "tags": [
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6538",
+        "name": "Military Analysis",
+        "tags": [
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6554",
+        "name": "Military Innovation and Security",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6557",
+        "name": "The Future of Arms Control",
+        "tags": [
+          "TECH",
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6559",
+        "name": "Missile Technology and Missile Defense",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6560",
+        "name": "Basics of Wargaming/Wargaming for Policy Analysis",
+        "tags": [
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6564",
+        "name": "US Nuclear Strategy",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6567",
+        "name": "Space Tech & Security",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6568",
+        "name": "Human Behavior in War",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6569",
+        "name": "Theory of Cyberwar",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6579",
+        "name": "Warfare in the Middle East",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6583",
+        "name": "China and its Military",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6584",
+        "name": "Global Cyber Threats",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6598",
+        "name": "Military Campaign Analysis: Decision Making in War",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6599",
+        "name": "Irregular War in Film",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6606",
+        "name": "National Security Law",
+        "tags": [
+          "MILOPS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6610",
+        "name": "Civil-Military Relations",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6621",
+        "name": "Strategic Red Teaming",
+        "tags": [
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6629",
+        "name": "Force Planning",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6631",
+        "name": "Outer Space/Strat Capabilites",
+        "tags": [
+          "TECH",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6644",
+        "name": "The Economics of War",
+        "tags": [
+          "ECON",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6649",
+        "name": "Hands-on Unconven Technologies",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6668",
+        "name": "National Security Crisis Decision Making",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6672",
+        "name": "National Cyber Security Strategy and Policy",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6674",
+        "name": "Weapons of War",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6675",
+        "name": "The Art of War & Grand Strategy",
+        "tags": [
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6680",
+        "name": "Naval Strategy",
+        "tags": [
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6696",
+        "name": "Seapower in the Indo-Pacific",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6698",
+        "name": "Gender and War",
+        "tags": [
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6703",
+        "name": "The Dark Arts",
+        "tags": [
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6711",
+        "name": "Sec. Cooperation: Policy & Process",
+        "tags": [
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6718",
+        "name": "Intelligence and War",
+        "tags": [
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6721",
+        "name": "National Security through Fiction",
+        "tags": [
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6725",
+        "name": "Tactical Innovation in Warfare",
+        "tags": [
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6738",
+        "name": "Russia and Its Military",
+        "tags": [
+          "AREA",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6744",
+        "name": "Air power Ops & Theory: Bombs, Drones, and Hypersonics",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6752",
+        "name": "National Security Space Policy & Technology",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6756",
+        "name": "Software-Defined Warfare",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-7102",
+        "name": "Writing for Publication: Irregular Warfare (IW)",
+        "tags": [
+          "MILOPS",
+          "TSV"
+        ]
+      }
+    ],
+    "TECH": [
+      {
+        "number": "SEST-5650",
+        "name": "Nuclear Weapons: History, Strategy, Technology",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP",
+          "CORE"
+        ]
+      },
+      {
+        "number": "SEST-5700",
+        "name": "Tools for Technology Policy",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5732",
+        "name": "Core: Nuclear Deterrence: Past, Present, and Future",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5733",
+        "name": "Cyber Operations",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-5734",
+        "name": "Artificial Intelligence & National Security",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6410",
+        "name": "Technology & National Security",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6514",
+        "name": "AI & Disinformation",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6515",
+        "name": "Net Assessment/Strategic Think",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6518",
+        "name": "Space Strategy, Policy, and Operations",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6545",
+        "name": "(Dis)Info Wars: Geopolitics In the Digital Age",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6548",
+        "name": "Weapons Proliferation and Security",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6554",
+        "name": "Military Innovation and Security",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6557",
+        "name": "The Future of Arms Control",
+        "tags": [
+          "TECH",
+          "IS",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6559",
+        "name": "Missile Technology and Missile Defense",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6561",
+        "name": "Modeling Complexity: Int Sec",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6564",
+        "name": "US Nuclear Strategy",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6566",
+        "name": "Biotechnology and Security",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6567",
+        "name": "Space Tech & Security",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6569",
+        "name": "Theory of Cyberwar",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6575",
+        "name": "Cyber Pol for Nat and Econ Security",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6576",
+        "name": "Chinese Open Source Analysis",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6577",
+        "name": "GIS for Security Studies",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6581",
+        "name": "Challenges of Chem/Bio Weapons",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6584",
+        "name": "Global Cyber Threats",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6587",
+        "name": "Technology Policy Across Borders",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6600",
+        "name": "Hate Groups and Social Media",
+        "tags": [
+          "TECH",
+          "IS",
+          "TSV",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6601",
+        "name": "Social Media Impact on National Sec",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6604",
+        "name": "Media and National Security",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6608",
+        "name": "DPRK Nuclear/Missile Programs",
+        "tags": [
+          "AREA",
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6609",
+        "name": "Strat Engagement & Ethical AI",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6622",
+        "name": "Science and Grand Strategy",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6627",
+        "name": "Adv Tech/Compet/Nat Security",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6630",
+        "name": "Countering Cybercrime",
+        "tags": [
+          "ECON",
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6631",
+        "name": "Outer Space/Strat Capabilites",
+        "tags": [
+          "TECH",
+          "IS",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6632",
+        "name": "Space Policy and Power",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6635",
+        "name": "Hands-On Cyber Forensics",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6649",
+        "name": "Hands-on Unconven Technologies",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6650",
+        "name": "Hands-on Open-source intelligence",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6653",
+        "name": "Hands On Cyber Investigations",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6654",
+        "name": "Disruptive Analytics: Theory, Method, & Technology",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6665",
+        "name": "Hands on Python for Cyber Security",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6669",
+        "name": "Hands-On Cybersecurity",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6672",
+        "name": "National Cyber Security Strategy and Policy",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6674",
+        "name": "Weapons of War",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6683",
+        "name": "Quantum Info Sci and Nat Sec",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6689",
+        "name": "Weapons of Mass Destruction and Catastrophic Terrorism",
+        "tags": [
+          "TECH",
+          "IS",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6701",
+        "name": "Hacking for Defense",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6705",
+        "name": "Data Visualization",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6709",
+        "name": "Cybersecurity Strategy:Public and Private Sector Persp",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6714",
+        "name": "Intelligence/Law Enforcement in the Cyber Domain",
+        "tags": [
+          "TECH",
+          "INTEL",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6729",
+        "name": "Intro Statisics for Policymakers",
+        "tags": [
+          "ECON",
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6730",
+        "name": "Emerging Tech & Nat Sec",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6732",
+        "name": "Foreign Policy for Big Tech",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6735",
+        "name": "Global AI Governance",
+        "tags": [
+          "TECH",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6739",
+        "name": "Introduction to CyberHUMINT",
+        "tags": [
+          "TECH",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6741",
+        "name": "Online Terrorism",
+        "tags": [
+          "TECH",
+          "TSV"
+        ]
+      },
+      {
+        "number": "SEST-6744",
+        "name": "Air power Ops & Theory: Bombs, Drones, and Hypersonics",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-6751",
+        "name": "Cyber Threat Intel and Nat Sec",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6752",
+        "name": "National Security Space Policy & Technology",
+        "tags": [
+          "TECH",
+          "MILOPS",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6756",
+        "name": "Software-Defined Warfare",
+        "tags": [
+          "TECH",
+          "MILOPS"
+        ]
+      },
+      {
+        "number": "SEST-8701",
+        "name": "Hacking for Defense",
+        "tags": [
+          "TECH",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-8670",
+        "name": "Python for Machine Learning",
+        "tags": [
+          "TECH"
+        ]
+      }
+    ]
+  }
+}
