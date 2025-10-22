@@ -6,8 +6,8 @@ const maxConcentration = 3;
 const maxElectives = 3;
 
 const schedule = { AREA:null, TECH:null, ECON:null, CORE:null, CONC:[], ELECT:[] };
-const tags = ["AREA","Econ","Tech","Intel","IS","Mil Ops","TSV","USNP","CORE"];
-const concentrations = ["Tech","Intel","IS","Mil Ops","TSV","USNP"];
+const tags = ["AREA","ECON","TECH","INTEL","IS","MILOPS","TSV","USNP","CORE"];
+const concentrations = ["TECH","INTEL","IS","MILOPS","TSV","USNP"];
 
 // Fetch JSON and initialize
 fetch('courses_indexed.json')
