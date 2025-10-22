@@ -21,7 +21,7 @@ const tags = ["AREA", "Econ", "Tech", "Intel", "IS", "Mil Ops", "TSV", "USNP", "
 const concentrations = ["Tech", "Intel", "IS", "Mil Ops", "TSV", "USNP"];
 
 // Fetch JSON and initialize
-fetch('courses_indexed.json')
+fetch('data/courses_indexed.json')
   .then(res => res.json())
   .then(data => {
     coursesData = data.courses;
@@ -59,7 +59,7 @@ function initConcentrationButtons() {
       // Highlight active
       Array.from(container.children).forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      renderCourses(); // Update filtering based on concentration
+      renderCourses();
     });
     container.appendChild(btn);
   });
@@ -86,9 +86,24 @@ function renderCourses() {
 
   filtered.forEach(course => {
     const div = document.createElement('div');
-    div.className = 'col-md-4 course-card card p-2';
-    div.innerHTML = `<strong>${course.number}</strong>: ${course.name}<br><small>${course.tags.join(', ')}</small>`;
-    div.addEventListener('click', () => addCourseToSchedule(course));
+    div.className = 'col-md-4 course-card card p-2 mb-2';
+
+    // Tags buttons + elective button
+    const tagsHtml = course.tags.map(tag => `<button class="btn btn-outline-secondary btn-sm me-1 mb-1 tag-btn-course">${tag}</button>`).join('');
+    div.innerHTML = `
+      <strong>${course.number}</strong>: ${course.name}<br>
+      ${tagsHtml}
+      <button class="btn btn-outline-warning btn-sm ms-1 mb-1">Add to Electives</button>
+    `;
+
+    // Tag button clicks
+    div.querySelectorAll('.tag-btn-course').forEach((btn, idx) => {
+      btn.addEventListener('click', () => addCourseToSlot(course, course.tags[idx]));
+    });
+
+    // Electives button click
+    div.querySelector('button.btn-outline-warning').addEventListener('click', () => addCourseToSlot(course, 'ELECT'));
+
     container.appendChild(div);
   });
 }
@@ -96,37 +111,41 @@ function renderCourses() {
 // Search input listener
 document.getElementById('searchBar').addEventListener('input', renderCourses);
 
-// Add course to schedule with validation
-function addCourseToSchedule(course) {
+// Add course to a specific slot
+function addCourseToSlot(course, tag) {
+  const tagUpper = tag.toUpperCase();
   const tagsUpper = course.tags.map(t => t.toUpperCase());
 
-  // AREA, TECH, ECON
-  if (tagsUpper.includes('AREA') && !schedule.AREA) { schedule.AREA = course; updateSlot('AREA', course); return; }
-  if (tagsUpper.includes('TECH') && !schedule.TECH) { schedule.TECH = course; updateSlot('TECH', course); return; }
-  if (tagsUpper.includes('ECON') && !schedule.ECON) { schedule.ECON = course; updateSlot('ECON', course); return; }
-
-  // CORE must match concentration
-  if (tagsUpper.includes('CORE') && activeConcentration && tagsUpper.includes(activeConcentration.toUpperCase()) && !schedule.CORE) {
-    schedule.CORE = course;
-    updateSlot('CORE', course);
-    return;
+  switch(tagUpper) {
+    case 'AREA':
+      if (!schedule.AREA) { schedule.AREA = course; updateSlot('AREA', course); }
+      else alert('AREA slot is full'); 
+      break;
+    case 'TECH':
+      if (!schedule.TECH) { schedule.TECH = course; updateSlot('TECH', course); }
+      else alert('TECH slot is full');
+      break;
+    case 'ECON':
+      if (!schedule.ECON) { schedule.ECON = course; updateSlot('ECON', course); }
+      else alert('ECON slot is full');
+      break;
+    case 'CORE':
+      if (!activeConcentration) { alert('Select a concentration first'); break; }
+      if (!tagsUpper.includes(activeConcentration.toUpperCase())) { alert('This course does not match the concentration for CORE'); break; }
+      if (!schedule.CORE) { schedule.CORE = course; updateSlot('CORE', course); }
+      else alert('CORE slot is full'); 
+      break;
+    case activeConcentration?.toUpperCase():
+      if (schedule.CONC.length < maxConcentration) { schedule.CONC.push(course); updateSlot('CONC', course); }
+      else alert('Concentration courses full'); 
+      break;
+    case 'ELECT':
+      if (schedule.ELECT.length < maxElectives) { schedule.ELECT.push(course); updateSlot('ELECT', course); }
+      else alert('Electives full'); 
+      break;
+    default:
+      alert('Cannot assign course to this slot');
   }
-
-  // Concentration courses
-  if (activeConcentration && tagsUpper.includes(activeConcentration.toUpperCase()) && schedule.CONC.length < maxConcentration) {
-    schedule.CONC.push(course);
-    updateSlot('CONC', course);
-    return;
-  }
-
-  // Electives
-  if (schedule.ELECT.length < maxElectives) {
-    schedule.ELECT.push(course);
-    updateSlot('ELECT', course);
-    return;
-  }
-
-  alert('This course cannot be added or the relevant slot is full.');
 }
 
 // Update the schedule slot display
@@ -147,6 +166,5 @@ document.getElementById('clearSchedule').addEventListener('click', () => {
   schedule.CORE = null;
   schedule.CONC = [];
   schedule.ELECT = [];
-  // Clear slots visually
   ['AREA','TECH','ECON','CORE','CONC','ELECT'].forEach(slot => document.getElementById(`slot-${slot}`).innerHTML = '');
 });
