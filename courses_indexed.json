@@ -30,7 +30,7 @@
       "number": "SEST-5000",
       "name": "Theory and Practice of Security",
       "tags": [
-        "CORE"
+        "OTHER"
       ],
       "notes": null
     },
@@ -38,7 +38,7 @@
       "number": "SEST-5001",
       "name": "Strategy/Policy/Military Operations",
       "tags": [
-        "CORE"
+        "OTHER"
       ],
       "notes": null
     },
@@ -47,7 +47,7 @@
       "name": "U.S. National Security Policy",
       "tags": [
         "USNP",
-        "CORE"
+        "OTHER"
       ],
       "notes": "Core course for U.S. National Security Policy Concentration"
     },
@@ -57,7 +57,7 @@
       "tags": [
         "INTEL",
         "USNP",
-        "CORE"
+        "OTHER"
       ],
       "notes": "Core course for Intelligence Concentration"
     },
@@ -65,8 +65,7 @@
       "number": "SEST-5300",
       "name": "Core: International Security",
       "tags": [
-        "IS",
-        "CORE"
+        "IS"
       ],
       "notes": "Core course for International Security Concentration"
     },
@@ -77,7 +76,7 @@
         "IS",
         "TSV",
         "USNP",
-        "CORE"
+        "OTHER"
       ],
       "notes": "Core course option for Terrorism and Substate Violence"
     },
@@ -87,8 +86,7 @@
       "tags": [
         "ECON",
         "MILOPS",
-        "USNP",
-        "CORE"
+        "USNP"
       ],
       "notes": "Core course option for Military Operations concentration"
     },
@@ -97,8 +95,7 @@
       "name": "Modern Conv Mil Ops",
       "tags": [
         "MILOPS",
-        "USNP",
-        "CORE"
+        "USNP"
       ],
       "notes": "Formerly Advanced Mil Ops - Core course option for Military Operations concentration"
     },
@@ -109,7 +106,7 @@
         "TECH",
         "MILOPS",
         "USNP",
-        "CORE"
+        "OTHER"
       ],
       "notes": "Core Course option for Technology concentration"
     },
@@ -128,8 +125,7 @@
       "tags": [
         "TECH",
         "MILOPS",
-        "USNP",
-        "CORE"
+        "USNP"
       ],
       "notes": "Core course option for Technology and Security Concentration"
     },
@@ -139,8 +135,7 @@
       "tags": [
         "TECH",
         "MILOPS",
-        "USNP",
-        "CORE"
+        "USNP"
       ],
       "notes": "Core Course option for Technology concentration"
     },
@@ -150,8 +145,7 @@
       "tags": [
         "TECH",
         "INTEL",
-        "USNP",
-        "CORE"
+        "USNP"
       ],
       "notes": "Core Course option for Technology concentration"
     },
@@ -2291,6 +2285,134 @@
         "TECH"
       ],
       "notes": null
+    },
+    {
+      "number": "SEST-6410",
+      "name": "Technology & National Security",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6704",
+      "name": "Weaponized Migration",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6761",
+      "name": "Industrial Tools & Nat Sec Pol",
+      "tags": [
+        "ECON",
+        "USNP"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6772",
+      "name": "Logistics for Policymakers",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6773",
+      "name": "Democrats Dictators & Development in Africa",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6774",
+      "name": "Navigating the Seams of Technology Operations & Policy",
+      "tags": [
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6775",
+      "name": "Business & Investment in Fragile High Risk and Conflict-Affected Markets",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6776",
+      "name": "Security & Economy in MENA",
+      "tags": [
+        "AREA",
+        "ECON",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6777",
+      "name": "Ramifications of Russia's War on Ukraine",
+      "tags": [
+        "AREA",
+        "ECON",
+        "TECH"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6778",
+      "name": "Geopolitical Risk",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6781",
+      "name": "Tech Alliances & the Quad",
+      "tags": [
+        "AREA",
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6783",
+      "name": "U.S. Intelligence: Blunders/Politics/and Reform",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6784",
+      "name": "Security Cooperation",
+      "tags": [
+        "IS"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-6785",
+      "name": "Iran: Power Politics & Prison",
+      "tags": [
+        "AREA",
+        "INTEL"
+      ],
+      "notes": null
+    },
+    {
+      "number": "SEST-7103",
+      "name": "The Art of the Op-Ed",
+      "tags": [
+        "INTEL"
+      ],
+      "notes": null
     }
   ],
   "byTag": {
@@ -2309,8 +2431,7 @@
         "tags": [
           "ECON",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -2538,6 +2659,32 @@
           "IS",
           "USNP"
         ]
+      },
+      {
+        "number": "SEST-6761",
+        "name": "Industrial Tools & Nat Sec Pol",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
+      },
+      {
+        "number": "SEST-6776",
+        "name": "Security & Economy in MENA",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6777",
+        "name": "Ramifications of Russia's War on Ukraine",
+        "tags": [
+          "AREA",
+          "ECON",
+          "TECH"
+        ]
       }
     ],
     "TSV": [
@@ -2563,7 +2710,7 @@
           "IS",
           "TSV",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -3461,6 +3608,48 @@
           "AREA",
           "IS"
         ]
+      },
+      {
+        "number": "SEST-6773",
+        "name": "Democrats Dictators & Development in Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6776",
+        "name": "Security & Economy in MENA",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6777",
+        "name": "Ramifications of Russia's War on Ukraine",
+        "tags": [
+          "AREA",
+          "ECON",
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6781",
+        "name": "Tech Alliances & the Quad",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6785",
+        "name": "Iran: Power Politics & Prison",
+        "tags": [
+          "AREA",
+          "INTEL"
+        ]
       }
     ],
     "IS": [
@@ -3476,8 +3665,7 @@
         "number": "SEST-5300",
         "name": "Core: International Security",
         "tags": [
-          "IS",
-        "CORE"
+          "IS"
         ]
       },
       {
@@ -3487,7 +3675,7 @@
           "IS",
           "TSV",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4533,21 +4721,81 @@
           "AREA",
           "IS"
         ]
+      },
+      {
+        "number": "SEST-6704",
+        "name": "Weaponized Migration",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6772",
+        "name": "Logistics for Policymakers",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6773",
+        "name": "Democrats Dictators & Development in Africa",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6775",
+        "name": "Business & Investment in Fragile High Risk and Conflict-Affected Markets",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6776",
+        "name": "Security & Economy in MENA",
+        "tags": [
+          "AREA",
+          "ECON",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6778",
+        "name": "Geopolitical Risk",
+        "tags": [
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6781",
+        "name": "Tech Alliances & the Quad",
+        "tags": [
+          "AREA",
+          "IS"
+        ]
+      },
+      {
+        "number": "SEST-6784",
+        "name": "Security Cooperation",
+        "tags": [
+          "IS"
+        ]
       }
     ],
-    "CORE": [
+    "OTHER": [
       {
         "number": "SEST-5000",
         "name": "Theory and Practice of Security",
         "tags": [
-          "CORE"
+          "OTHER"
         ]
       },
       {
         "number": "SEST-5001",
         "name": "Strategy/Policy/Military Operations",
         "tags": [
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4555,7 +4803,7 @@
         "name": "U.S. National Security Policy",
         "tags": [
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4564,7 +4812,7 @@
         "tags": [
           "INTEL",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4574,7 +4822,7 @@
           "IS",
           "TSV",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4584,7 +4832,7 @@
           "TECH",
           "MILOPS",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       }
     ],
@@ -4594,7 +4842,7 @@
         "name": "U.S. National Security Policy",
         "tags": [
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4603,7 +4851,7 @@
         "tags": [
           "INTEL",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4613,7 +4861,7 @@
           "IS",
           "TSV",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4622,8 +4870,7 @@
         "tags": [
           "ECON",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -4631,8 +4878,7 @@
         "name": "Modern Conv Mil Ops",
         "tags": [
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -4642,7 +4888,7 @@
           "TECH",
           "MILOPS",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -4659,8 +4905,7 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -4669,8 +4914,7 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -4679,8 +4923,7 @@
         "tags": [
           "TECH",
           "INTEL",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -5364,6 +5607,14 @@
           "TECH",
           "USNP"
         ]
+      },
+      {
+        "number": "SEST-6761",
+        "name": "Industrial Tools & Nat Sec Pol",
+        "tags": [
+          "ECON",
+          "USNP"
+        ]
       }
     ],
     "INTEL": [
@@ -5373,7 +5624,7 @@
         "tags": [
           "INTEL",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -5382,8 +5633,7 @@
         "tags": [
           "TECH",
           "INTEL",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -5683,6 +5933,28 @@
           "INTEL",
           "USNP"
         ]
+      },
+      {
+        "number": "SEST-6783",
+        "name": "U.S. Intelligence: Blunders/Politics/and Reform",
+        "tags": [
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-6785",
+        "name": "Iran: Power Politics & Prison",
+        "tags": [
+          "AREA",
+          "INTEL"
+        ]
+      },
+      {
+        "number": "SEST-7103",
+        "name": "The Art of the Op-Ed",
+        "tags": [
+          "INTEL"
+        ]
       }
     ],
     "MILOPS": [
@@ -5692,8 +5964,7 @@
         "tags": [
           "ECON",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -5701,8 +5972,7 @@
         "name": "Modern Conv Mil Ops",
         "tags": [
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -5712,7 +5982,7 @@
           "TECH",
           "MILOPS",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -5721,8 +5991,7 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -5731,8 +6000,7 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -6128,7 +6396,7 @@
           "TECH",
           "MILOPS",
           "USNP",
-          "CORE"
+          "OTHER"
         ]
       },
       {
@@ -6145,8 +6413,7 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -6155,8 +6422,7 @@
         "tags": [
           "TECH",
           "MILOPS",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -6165,8 +6431,7 @@
         "tags": [
           "TECH",
           "INTEL",
-          "USNP",
-        "CORE"
+          "USNP"
         ]
       },
       {
@@ -6624,6 +6889,29 @@
         "number": "SEST-8670",
         "name": "Python for Machine Learning",
         "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6410",
+        "name": "Technology & National Security",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6774",
+        "name": "Navigating the Seams of Technology Operations & Policy",
+        "tags": [
+          "TECH"
+        ]
+      },
+      {
+        "number": "SEST-6777",
+        "name": "Ramifications of Russia's War on Ukraine",
+        "tags": [
+          "AREA",
+          "ECON",
           "TECH"
         ]
       }
