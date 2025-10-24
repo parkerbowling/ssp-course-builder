@@ -30,7 +30,7 @@
       "number": "SEST-5000",
       "name": "Theory and Practice of Security",
       "tags": [
-        "OTHER"
+        "CORE"
       ],
       "notes": null
     },
@@ -38,7 +38,7 @@
       "number": "SEST-5001",
       "name": "Strategy/Policy/Military Operations",
       "tags": [
-        "OTHER"
+        "CORE"
       ],
       "notes": null
     },
@@ -47,7 +47,7 @@
       "name": "U.S. National Security Policy",
       "tags": [
         "USNP",
-        "OTHER"
+        "CORE"
       ],
       "notes": "Core course for U.S. National Security Policy Concentration"
     },
@@ -57,7 +57,7 @@
       "tags": [
         "INTEL",
         "USNP",
-        "OTHER"
+        "CORE"
       ],
       "notes": "Core course for Intelligence Concentration"
     },
@@ -76,7 +76,7 @@
         "IS",
         "TSV",
         "USNP",
-        "OTHER"
+        "CORE"
       ],
       "notes": "Core course option for Terrorism and Substate Violence"
     },
@@ -106,7 +106,7 @@
         "TECH",
         "MILOPS",
         "USNP",
-        "OTHER"
+        "CORE"
       ],
       "notes": "Core Course option for Technology concentration"
     },
@@ -2710,7 +2710,7 @@
           "IS",
           "TSV",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -3675,7 +3675,7 @@
           "IS",
           "TSV",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -4783,19 +4783,19 @@
         ]
       }
     ],
-    "OTHER": [
+    "CORE": [
       {
         "number": "SEST-5000",
         "name": "Theory and Practice of Security",
         "tags": [
-          "OTHER"
+          "CORE"
         ]
       },
       {
         "number": "SEST-5001",
         "name": "Strategy/Policy/Military Operations",
         "tags": [
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -4803,7 +4803,7 @@
         "name": "U.S. National Security Policy",
         "tags": [
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -4812,7 +4812,7 @@
         "tags": [
           "INTEL",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -4822,7 +4822,7 @@
           "IS",
           "TSV",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -4832,7 +4832,7 @@
           "TECH",
           "MILOPS",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       }
     ],
@@ -4842,7 +4842,7 @@
         "name": "U.S. National Security Policy",
         "tags": [
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -4851,7 +4851,7 @@
         "tags": [
           "INTEL",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -4861,7 +4861,7 @@
           "IS",
           "TSV",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -4888,7 +4888,7 @@
           "TECH",
           "MILOPS",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -5624,7 +5624,7 @@
         "tags": [
           "INTEL",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -5982,7 +5982,7 @@
           "TECH",
           "MILOPS",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
@@ -6396,7 +6396,7 @@
           "TECH",
           "MILOPS",
           "USNP",
-          "OTHER"
+          "CORE"
         ]
       },
       {
