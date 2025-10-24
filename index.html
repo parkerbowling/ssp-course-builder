@@ -13,64 +13,64 @@
     .course-tags button { margin-right: 5px; margin-top: 5px; }
     .course-card.selected { border: 2px solid #0d6efd; }
     #courseList {
-    max-height: 400px;   /* adjust to how much you want visible */
-    overflow-y: auto;
+      max-height: 400px;
+      overflow-y: auto;
     }
     #courseList .course-card {
-    margin-bottom: 10px;  /* spacing between cards */
+      margin-bottom: 10px;
     }
 
     body {
-  background-color: rgb(4, 30, 66);
-  color: white;
-  font-family: 'Arial', sans-serif;
-}
+      background-color: rgb(4, 30, 66);
+      color: white;
+      font-family: 'Arial', sans-serif;
+    }
 
-/* Make buttons and cards stand out */
-.card, .btn, .filter-btn {
-  color: white;
-  background-color: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  transition: all 0.2s ease;
-}
+    .card, .btn, .filter-btn {
+      color: white;
+      background-color: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      transition: all 0.2s ease;
+    }
 
-/* Hover effect for interactivity */
-.card:hover, .btn:hover, .filter-btn:hover {
-  background-color: rgba(255, 255, 255, 0.2);
-}
+    .card:hover, .btn:hover, .filter-btn:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
 
-/* Highlight active filter or concentration */
-.active-filter {
-  background-color: rgba(255, 255, 255, 0.4);
-  color: rgb(4, 30, 66);
-  font-weight: bold;
-}
+    .active-filter {
+      background-color: rgba(255, 255, 255, 0.4);
+      color: rgb(4, 30, 66);
+      font-weight: bold;
+    }
 
-/* Schedule slots */
-.schedule-slot {
-  background-color: rgba(255, 255, 255, 0.05);
-  border: 1px dashed rgba(255, 255, 255, 0.3);
-  padding: 10px;
-  border-radius: 8px;
-  margin-bottom: 10px;
-  text-align: center;
-}
+    .schedule-slot {
+      background-color: rgba(255, 255, 255, 0.05);
+      border: 1px dashed rgba(255, 255, 255, 0.3);
+      padding: 10px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      text-align: center;
+    }
 
-/* Placeholder text for empty slots */
-.schedule-slot:empty::before {
-  content: "Click a course to add here";
-  color: rgba(255, 255, 255, 0.5);
-  font-style: italic;
-}
+    .schedule-slot:empty::before {
+      content: "Click a course to add here";
+      color: rgba(255, 255, 255, 0.5);
+      font-style: italic;
+    }
 
-/* Scrollable course list container */
-#course-list {
-  max-height: 400px;
-  overflow-y: auto;
-  padding-right: 10px;
-}
+    #course-list {
+      max-height: 400px;
+      overflow-y: auto;
+      padding-right: 10px;
+    }
 
-
+    /* Disclaimer styling */
+    .disclaimer {
+      font-style: italic;
+      color: rgba(255, 255, 255, 0.8);
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
   </style>
 </head>
 <body>
@@ -93,6 +93,12 @@
 
     <!-- Schedule Planner -->
     <h3>Schedule</h3>
+
+    <!-- Disclaimer -->
+    <p class="disclaimer">
+      This schedule may not be accurate. Please check the Student Resources for the most up-to-date information.
+    </p>
+
     <div id="schedulePlanner">
       <div><strong>AREA:</strong> <div class="schedule-slot" id="slot-AREA"></div></div>
       <div><strong>TECH:</strong> <div class="schedule-slot" id="slot-TECH"></div></div>
