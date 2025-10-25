@@ -5,74 +5,76 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SSP Course Builder</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body { padding: 20px; }
-    .tag-btn.active { background-color: #0d6efd; color: white; }
-    .course-card { cursor: pointer; margin-bottom: 10px; }
-    .schedule-slot { min-height: 50px; border: 1px dashed #ccc; padding: 5px; margin-bottom: 10px; }
-    .course-tags button { margin-right: 5px; margin-top: 5px; }
-    .course-card.selected { border: 2px solid #0d6efd; }
-    #courseList {
-      max-height: 400px;
-      overflow-y: auto;
-    }
-    #courseList .course-card {
-      margin-bottom: 10px;
-    }
 
+  <style>
     body {
       background-color: rgb(4, 30, 66);
       color: white;
       font-family: 'Arial', sans-serif;
+      padding: 20px;
     }
 
-    .card, .btn, .filter-btn {
+    .tag-btn.active { background-color: #0d6efd; color: white; }
+    .course-card { cursor: pointer; margin-bottom: 10px; }
+    #courseList { max-height: 400px; overflow-y: auto; margin-bottom: 10px; }
+
+    /* === COLOR SYSTEM FOR CATEGORIES === */
+    .color-AREA   { background-color: #4CAF50; } /* Green */
+    .color-TECH   { background-color: #2196F3; } /* Blue */
+    .color-ECON   { background-color: #FFC107; } /* Amber */
+    .color-CORE   { background-color: #E91E63; } /* Pink */
+    .color-CONC   { background-color: #9C27B0; } /* Purple */
+    .color-ELECT  { background-color: #FF5722; } /* Deep Orange */
+
+    /* Buttons */
+    .filter-btn {
       color: white;
-      background-color: rgba(255, 255, 255, 0.1);
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      transition: all 0.2s ease;
+      border: none;
+      margin: 5px;
+      padding: 5px 10px;
+      border-radius: 6px;
+      transition: transform 0.2s;
     }
 
-    .card:hover, .btn:hover, .filter-btn:hover {
-      background-color: rgba(255, 255, 255, 0.2);
+    .filter-btn:hover {
+      transform: scale(1.05);
+      opacity: 0.9;
     }
 
-    .active-filter {
-      background-color: rgba(255, 255, 255, 0.4);
-      color: rgb(4, 30, 66);
-      font-weight: bold;
-    }
-
+    /* === Schedule Styling === */
     .schedule-slot {
       background-color: rgba(255, 255, 255, 0.05);
-      border: 1px dashed rgba(255, 255, 255, 0.3);
       padding: 10px;
       border-radius: 8px;
       margin-bottom: 10px;
       text-align: center;
+      min-height: 50px;
     }
 
+    /* Category-colored borders */
+    #slot-AREA   { border: 2px solid #4CAF50; }
+    #slot-TECH   { border: 2px solid #2196F3; }
+    #slot-ECON   { border: 2px solid #FFC107; }
+    #slot-CORE   { border: 2px solid #E91E63; }
+    #slot-CONC   { border: 2px solid #9C27B0; }
+    #slot-ELECT  { border: 2px solid #FF5722; }
+
+    /* Placeholder text for empty slots */
     .schedule-slot:empty::before {
       content: "Click a course to add here";
       color: rgba(255, 255, 255, 0.5);
       font-style: italic;
     }
 
-    #course-list {
-      max-height: 400px;
-      overflow-y: auto;
-      padding-right: 10px;
-    }
-
     /* Disclaimer styling */
     .disclaimer {
       font-style: italic;
       color: rgba(255, 255, 255, 0.8);
-      margin-top: 10px;
-      margin-bottom: 20px;
+      margin-top: 8px;
     }
   </style>
 </head>
+
 <body>
   <div class="container">
     <h1 class="mb-4">SSP Course Builder</h1>
@@ -89,16 +91,10 @@
     </div>
 
     <!-- Course List -->
-    <div id="courseList" class="mb-4 row"></div>
+    <div id="courseList" class="row"></div>
 
     <!-- Schedule Planner -->
     <h3>Schedule</h3>
-
-    <!-- Disclaimer -->
-    <p class="disclaimer">
-      This schedule may not be accurate. Please check the Student Resources for the most up-to-date information.
-    </p>
-
     <div id="schedulePlanner">
       <div><strong>AREA:</strong> <div class="schedule-slot" id="slot-AREA"></div></div>
       <div><strong>TECH:</strong> <div class="schedule-slot" id="slot-TECH"></div></div>
@@ -107,6 +103,11 @@
       <div><strong>Concentration Courses (3 max):</strong> <div class="schedule-slot" id="slot-CONC"></div></div>
       <div><strong>Electives (3 max):</strong> <div class="schedule-slot" id="slot-ELECT"></div></div>
     </div>
+
+    <!-- Disclaimer -->
+    <p class="disclaimer">
+      This schedule may not be accurate; please check the Student Resources for the most up-to-date information.
+    </p>
 
     <!-- Clear Button -->
     <button id="clearSchedule" class="btn btn-danger mt-3">CLEAR</button>
