@@ -80,7 +80,7 @@ function renderCourses() {
       <strong>${course.number}</strong>: ${course.name}<br>
       <div class="course-tags">${tagsHtml}</div>
       <button class="btn btn-outline-warning btn-sm ms-1 mb-1">Add to Electives</button>
-    <div class="course-note mt-1 text-muted">${course.notes ? course.notes : ''}</div>
+    <div class="course-note mt-1">${course.notes ? course.notes : ''}</div>
       `;
 
     // Tag buttons
